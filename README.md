@@ -23,14 +23,16 @@ The exact sources are available under the `epubs` folder for reference.
 
 Files were loaded onto a Kobo Libra 2, manually highlighted and then exported as insert statements using [TablePlus](https://tableplus.com/).
 
+A variety of files and import methods are used to capture differences that can occur under the hood.
+
 The following books were used:
 
 | Name                                                                                                                                                                | Author                                                                                         | Format | Notes                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------ | ----------------------------------- |
 | [Tractatus Logico-Philosophicus](https://standardebooks.org/ebooks/ludwig-wittgenstein/tractatus-logico-philosophicus/c-k-ogden)                                    | [Ludwig Wittgenstein](https://standardebooks.org/ebooks/ludwig-wittgenstein)                   | kepub  | Manually copied onto root of device |
-| [813](https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos)                                                                           | [Maurice Leblanc](https://standardebooks.org/ebooks/maurice-leblanc)                           | kepub  | Loaded onto Kobo using Calibre + converted using Calibre kepub plugin due to Calibre not recognising file as a kepub |
+| [813](https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos)                                                                           | [Maurice Leblanc](https://standardebooks.org/ebooks/maurice-leblanc)                           | kepub  | Loaded onto Kobo using Calibre 6.11.0 on macOS + converted using Calibre kepub plugin due to Calibre not recognising file as a kepub |
 | [Don Quixote](https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra/don-quixote/john-ormsby)                                                               | [Miguel de Cervantes Saavedra](https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra) | epub   | Manually copied onto root of device |
-| [The Private Memoirs and Confessions of a Justified Sinner](https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner) | [James Hogg](https://standardebooks.org/ebooks/james-hogg)                                     | epub   | Loaded onto Kobo using Calibre      |
+| [The Private Memoirs and Confessions of a Justified Sinner](https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner) | [James Hogg](https://standardebooks.org/ebooks/james-hogg)                                     | epub   | Loaded onto Kobo using Calibre 6.11.0 on macOS      |
 
 From there, each book was manually opened and highlighted more or less randomly.
 
