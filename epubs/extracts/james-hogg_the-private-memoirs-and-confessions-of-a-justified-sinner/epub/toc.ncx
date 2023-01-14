@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="url:https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Table of Contents</text>
+	</docTitle>
+	<navMap id="navmap">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>Titlepage</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>Frontispiece</text>
+			</navLabel>
+			<content src="text/frontispiece.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-4" playOrder="4">
+			<navLabel>
+				<text>The Private Memoirs and Confessions of a Justified Sinner</text>
+			</navLabel>
+			<content src="text/halftitlepage.xhtml"/>
+			<navPoint id="navpoint-5" playOrder="5">
+				<navLabel>
+					<text>The Editor’s Narrative</text>
+				</navLabel>
+				<content src="text/prologue.xhtml"/>
+			</navPoint>
+			<navPoint id="navpoint-6" playOrder="6">
+				<navLabel>
+					<text>Private Memoirs and Confessions of a Sinner: Written by Himself</text>
+				</navLabel>
+				<content src="text/private-memoirs-and-confessions-of-a-sinner.xhtml"/>
+			</navPoint>
+			<navPoint id="navpoint-7" playOrder="7">
+				<navLabel>
+					<text>The Editor’s Narrative</text>
+				</navLabel>
+				<content src="text/epilogue.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-8" playOrder="8">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="text/colophon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-9" playOrder="9">
+			<navLabel>
+				<text>Uncopyright</text>
+			</navLabel>
+			<content src="text/uncopyright.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-10" playOrder="10">
+			<navLabel>
+				<text>List of Illustrations</text>
+			</navLabel>
+			<content src="text/loi.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>

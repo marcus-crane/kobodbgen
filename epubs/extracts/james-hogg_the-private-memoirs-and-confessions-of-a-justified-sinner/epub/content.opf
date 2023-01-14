@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-hogg/the-private-memoirs-and-confessions-of-a-justified-sinner</dc:identifier>
+		<dc:date>2023-01-11T20:07:00Z</dc:date>
+		<meta property="dcterms:modified">2023-01-11T20:07:02Z</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+		<dc:title id="title">The Private Memoirs and Confessions of a Justified Sinner</dc:title>
+		<meta property="file-as" refines="#title">Private Memoirs and Confessions of a Justified Sinner, The</meta>
+		<dc:subject id="subject-1">Psychological fiction</dc:subject>
+		<dc:subject id="subject-2">Murderers -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Scotland -- Fiction</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85108438</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008107220</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111215</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Horror</meta>
+		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">94</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">38</meta>
+		<dc:description id="description">A religious fanatic’s mysterious friend helps turn him into a killer.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;The “sinner” in this engrossing and strange novel is Robert Wringham, the son of a Scottish laird and a much more religious mother, who quickly separates from her free-living husband under the encouragement of an influential minister. When it’s time to be baptized, Robert takes the preacher’s last name, and a bit later the reverend decides that Robert is also one of God’s chosen. Robert believes that as a member of the elect he can never be damned, no matter what he does.&lt;/p&gt;
+			&lt;p&gt;One day Robert becomes fast friends with a man with mysterious powers and a strange name. This Gil-Martin takes on the appearance of different people, and can even learn their “most secret thoughts.” He’s also good at arguing Scripture—and capitalizing on Robert’s pride, and other faults. Soon they’re scheming together to get the better of their enemies—and their plans include murder.&lt;/p&gt;
+			&lt;p&gt;&lt;em&gt;The Private Memoirs and Confessions of a Justified Sinner&lt;/em&gt; was a failure when it was first published anonymously in 1824, though it was ahead of its time in its blend of mystery, psychological horror, tall tales, comedy, metafiction, and social criticism. It was only in the twentieth century that it became more broadly known, gaining admirers that included the writers André Gide, Muriel Spark, Philip Pullman, and Ian Rankin.&lt;/p&gt;
+		</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/2276</dc:source>
+		<!--Text source-->
+		<dc:source>https://catalog.hathitrust.org/Record/000438212</dc:source>
+		<!--Illustration source, first edition-->
+		<dc:source>https://archive.org/details/privatememoirsco00hoggrich</dc:source>
+		<meta property="se:word-count">84506</meta>
+		<meta property="se:reading-ease.flesch">62.01</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-hogg_the-private-memoirs-and-confessions-of-a-justified-sinner</meta>
+		<dc:creator id="author">James Hogg</dc:creator>
+		<meta property="file-as" refines="#author">Hogg, James</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/James_Hogg</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80062998</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Jacob van Campen</dc:contributor>
+		<meta property="file-as" refines="#artist">van Campen, Jacob</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jacob_van_Campen</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80057420</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Andreas Philipp</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Philipp, Andreas</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Martin Adamson</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Adamson, Martin</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com/</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="se:built-with">2.4.3</meta>
+		<meta content="cover.jpg" name="cover"/>
+		<meta property="se:transform">compatibility</meta>
+	</metadata>
+	<manifest>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+		<item href="images/illustration-1.png" id="illustration-1.png" media-type="image/png"/>
+		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/titlepage.png" id="titlepage.png" media-type="image/png"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/frontispiece.xhtml" id="frontispiece.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/private-memoirs-and-confessions-of-a-sinner.xhtml" id="private-memoirs-and-confessions-of-a-sinner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="frontispiece.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="prologue.xhtml"/>
+		<itemref idref="private-memoirs-and-confessions-of-a-sinner.xhtml"/>
+		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+		<itemref idref="loi.xhtml"/>
+	</spine>
+	<guide>
+		<reference href="text/loi.xhtml" title="List of Illustrations" type="loi"/>
+	</guide>
+</package>

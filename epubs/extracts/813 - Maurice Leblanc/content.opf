@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid_id" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title id="id">813</dc:title>
+    <dc:creator id="id-1">Maurice Leblanc</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:contributor id="id-2">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>The gentleman-thief returns only to face his most dangerous opponent yet.</dc:description>
+    <dc:publisher>Standard Ebooks</dc:publisher>
+    <dc:identifier>URL:https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos</dc:identifier>
+    <dc:identifier id="uuid_id">uuid:bf6b0b6e-edc2-4352-9cd0-65ea15036e88</dc:identifier>
+    <dc:identifier>calibre:bf6b0b6e-edc2-4352-9cd0-65ea15036e88</dc:identifier>
+    <dc:subject>Burglars -- Fiction</dc:subject>
+    <dc:subject>Lupin</dc:subject>
+    <dc:subject>Arsène (Fictitious character) -- Fiction</dc:subject>
+    <dc:date>2018-07-18T00:01:28+00:00</dc:date>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">813</meta>
+    <meta name="cover" content="cover"/>
+    <meta refines="#id-1" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id-1" property="file-as">Leblanc, Maurice</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">bkp</meta>
+    <meta property="calibre:timestamp" scheme="dcterms:W3CDTF">2023-01-13T23:08:40Z</meta>
+    <meta property="belongs-to-collection" id="id-3">Arsène Lupin</meta>
+    <meta refines="#id-3" property="collection-type">series</meta>
+    <meta refines="#id-3" property="group-position">4</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2023-01-13T23:08:59Z</meta>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg calibre:title-page"/>
+    <item id="titlepage.xhtml" href="epub/text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="imprint.xhtml" href="epub/text/imprint.xhtml" media-type="application/xhtml+xml"/>
+    <item id="foreword.xhtml" href="epub/text/foreword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="halftitlepage.xhtml" href="epub/text/halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-1.xhtml" href="epub/text/chapter-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-2.xhtml" href="epub/text/chapter-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-3.xhtml" href="epub/text/chapter-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-4.xhtml" href="epub/text/chapter-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-5.xhtml" href="epub/text/chapter-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-6.xhtml" href="epub/text/chapter-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-7.xhtml" href="epub/text/chapter-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-8.xhtml" href="epub/text/chapter-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-9.xhtml" href="epub/text/chapter-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-10.xhtml" href="epub/text/chapter-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-11.xhtml" href="epub/text/chapter-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-12.xhtml" href="epub/text/chapter-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-13.xhtml" href="epub/text/chapter-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-14.xhtml" href="epub/text/chapter-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-15.xhtml" href="epub/text/chapter-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-16.xhtml" href="epub/text/chapter-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="epilogue.xhtml" href="epub/text/epilogue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="endnotes.xhtml" href="epub/text/endnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon.xhtml" href="epub/text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="uncopyright.xhtml" href="epub/text/uncopyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="logo.png" href="epub/images/logo.png" media-type="image/png"/>
+    <item id="titlepage.png" href="epub/images/titlepage.png" media-type="image/png"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="id1" href="plugininfo.kte" media-type="application/json"/>
+    <item id="id2" href="kte-css/hyphenation.css" media-type="text/css"/>
+    <item id="id3" href="kte-css/stylehacks.css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="titlepage"/>
+    <itemref idref="titlepage.xhtml"/>
+    <itemref idref="imprint.xhtml"/>
+    <itemref idref="foreword.xhtml"/>
+    <itemref idref="halftitlepage.xhtml"/>
+    <itemref idref="chapter-1.xhtml"/>
+    <itemref idref="chapter-2.xhtml"/>
+    <itemref idref="chapter-3.xhtml"/>
+    <itemref idref="chapter-4.xhtml"/>
+    <itemref idref="chapter-5.xhtml"/>
+    <itemref idref="chapter-6.xhtml"/>
+    <itemref idref="chapter-7.xhtml"/>
+    <itemref idref="chapter-8.xhtml"/>
+    <itemref idref="chapter-9.xhtml"/>
+    <itemref idref="chapter-10.xhtml"/>
+    <itemref idref="chapter-11.xhtml"/>
+    <itemref idref="chapter-12.xhtml"/>
+    <itemref idref="chapter-13.xhtml"/>
+    <itemref idref="chapter-14.xhtml"/>
+    <itemref idref="chapter-15.xhtml"/>
+    <itemref idref="chapter-16.xhtml"/>
+    <itemref idref="epilogue.xhtml"/>
+    <itemref idref="endnotes.xhtml"/>
+    <itemref idref="colophon.xhtml"/>
+    <itemref idref="uncopyright.xhtml"/>
+  </spine>
+  </package>

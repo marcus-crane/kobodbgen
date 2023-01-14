@@ -1,0 +1,23 @@
+* {
+	/* Vendor-prefixed CSS properties for hyphenation. Keep -webkit last since
+	 * some user agents also recognize -webkit properties and will apply them.
+	 */
+	-webkit-hyphens: auto;
+	-webkit-hyphenate-limit-after: 3;
+	-webkit-hyphenate-limit-before: 3;
+	-webkit-hyphenate-limit-chars: 6 3 3;
+	-webkit-hyphenate-limit-lines: 2;
+
+	/* CSS4 standard properties for hyphenation. If a property isn't represented
+	 * in the standard, don't put a vendor-prefixed property for it above.
+	 */
+	hyphens: auto;
+	hyphenate-limit-chars: 6 3 3;
+	hyphenate-limit-lines: 2;
+	hyphenate-limit-last: page;
+}
+
+h1, h2, h3, h4, h5, h6, td {
+	-webkit-hyphens: none !important;
+	hyphens: none !important;
+}

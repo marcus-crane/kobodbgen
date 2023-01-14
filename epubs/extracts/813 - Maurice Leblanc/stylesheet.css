@@ -1,0 +1,343 @@
+.calibre {
+  -epub-hyphens: auto;
+  display: block;
+  font-size: 1em;
+  font-variant-numeric: oldstyle-nums;
+  hyphens: auto;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: none;
+  font-size: 2em;
+  font-variant: small-caps;
+  font-weight: bold;
+  hyphens: none;
+  left: -999em;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  position: absolute;
+  text-align: center;
+  margin: 3em 0;
+}
+.calibre2 {
+  display: none;
+  font-size: 2em;
+  left: -999em;
+  line-height: 1.2;
+  position: absolute;
+  text-indent: 1em;
+  margin: 0;
+}
+.calibre3 {
+  font-variant: small-caps;
+  font-weight: normal;
+}
+.calibre4 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  hyphens: none;
+  line-height: 1.2;
+  margin-top: 3em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+}
+.calibre5 {
+  display: block;
+  font-size: 0.75em;
+  hanging-punctuation: first last;
+  text-align: justify;
+  text-indent: 0;
+  width: 75%;
+  margin: 1em auto 0;
+}
+.calibre6 {
+  -epub-hyphens: none;
+  hyphens: none;
+}
+.calibre7 {
+  display: block;
+  font-size: 0.75em;
+  text-align: justify;
+  text-indent: 0;
+  width: 75%;
+  margin: 1em auto 0;
+}
+.calibre8 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.66667em;
+  font-variant: small-caps;
+  font-weight: bold;
+  hyphens: none;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+  margin: 3em 0;
+}
+.calibre9 {
+  display: block;
+  hanging-punctuation: first last;
+  text-indent: 0;
+  margin: 0;
+}
+.calibre10 {
+  display: block;
+  margin-top: 1em;
+  text-align: right;
+}
+.calibre11 {
+  white-space: nowrap;
+  border: currentColor none medium;
+}
+.calibre12 {
+  display: block;
+  text-indent: 1em;
+  margin: 0;
+}
+.calibre13 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  font-variant: small-caps;
+  hyphens: none;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+  margin: 3em 0;
+}
+.calibre14 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.29167em;
+  font-variant: small-caps;
+  font-weight: normal;
+  hyphens: none;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+  margin: 0;
+}
+.calibre15 {
+  color: gray;
+  display: block;
+  height: 0;
+  width: 25%;
+  margin: 1.5em auto;
+  border-top: currentColor solid 1px;
+  border-right: currentColor none medium;
+  border-bottom: currentColor none medium;
+  border-left: currentColor none medium;
+}
+.calibre16 {
+  font-style: italic;
+}
+.calibre17 {
+  line-height: 1.2;
+  white-space: nowrap;
+  border: currentColor none medium;
+}
+.calibre18 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  hyphens: none;
+  margin-bottom: 1em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: right;
+}
+.calibre19 {
+  display: block;
+  text-indent: 0;
+  margin: 0;
+}
+.calibre20 {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  hyphens: none;
+  margin-bottom: 1em;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+}
+.calibre21 {
+  font-variant: small-caps;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.calibre22 {
+  display: none;
+}
+.calibre23 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre24 {
+  display: list-item;
+  margin: 1em 0;
+}
+.calibre25 {
+  display: block;
+  hanging-punctuation: first last;
+  text-indent: 0;
+  margin: 1em auto 0;
+}
+.calibre26 {
+  -epub-hyphens: none;
+  font-variant: small-caps;
+  hyphens: none;
+}
+.calibre27 {
+  display: block;
+  text-indent: 0;
+  margin: 1em auto 0;
+}
+.calibre28 {
+  display: block;
+  text-indent: 0;
+  margin: 1em auto;
+}
+.calibre29 {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre30 {
+  display: block;
+  font-size: 1.66667em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0.83em 0;
+}
+.calibre31 {
+  display: list-item;
+}
+.calibre32 {
+  display: block;
+  list-style-type: decimal;
+  margin: 0;
+}
+.epub-type-imprint {
+  display: block;
+  text-align: center;
+}
+.epub-type-noteref {
+  font-size: 0.75em;
+  font-style: normal;
+  vertical-align: super;
+}
+.epub-type-se-image-color-depth-black-on-transparent {
+  background: transparent;
+  display: block;
+  filter: invert(100%);
+  height: auto;
+  width: 100%;
+  margin: 3em auto auto;
+}
+.epub-type-se-image-color-depth-black-on-transparent1 {
+  background: transparent;
+  filter: invert(100%);
+  height: auto;
+  line-height: 1.2;
+  max-width: 25%;
+  width: 220px;
+}
+.epub-type-titlepage {
+  display: block;
+}
+.epub-type-z3998-letter {
+  display: block;
+  margin: 1em 2.5em;
+}
+.epub-type-z3998-recipient {
+  font-variant: small-caps;
+}
+.epub-type-z3998-signature {
+  display: block;
+  font-variant: small-caps;
+  hanging-punctuation: first last;
+  text-indent: 0;
+  margin: 0;
+}
+.epub-type-z3998-signature1 {
+  display: block;
+  font-variant: small-caps;
+  text-indent: 1em;
+  margin: 0;
+}
+.first-child {
+  -epub-hyphens: none;
+  break-after: avoid;
+  break-inside: avoid;
+  display: block;
+  font-size: 1.66667em;
+  font-variant: small-caps;
+  font-weight: bold;
+  hyphens: none;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+  text-align: center;
+  margin: 0;
+}
+.first-child1 {
+  display: block;
+  font-size: 2em;
+  hanging-punctuation: first last;
+  line-height: 1.2;
+  text-indent: 0;
+  margin: 0;
+}
+.first-child2 {
+  display: block;
+  hanging-punctuation: first last;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+}
+.first-child3 {
+  display: block;
+  font-style: italic;
+  hanging-punctuation: first last;
+  text-align: left;
+  text-indent: 0;
+  margin: 1em auto;
+}
+.kobo-verse-span {
+  display: block;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+.kobospan {
+  line-height: 1.2;
+}
+.pcalibre:before {
+  content: "";
+  display: block;
+  width: 25%;
+  margin: auto auto 1em;
+  border-top: currentColor solid 1px;
+}
