@@ -37,3 +37,7 @@ From there, each book was manually opened and highlighted more or less randomly.
 In hindsight, I realised I forgot to add notes to any of the highlights but I'll probably extend the list of books over time anyway.
 
 Do note that the above files are formatted cleanly by Standard Ebooks and it would be useful to add in some messier epubs to reflect what is lying on the internet.
+
+## Credits
+
+Special thanks to [Standard Ebooks](https://standardebooks.org/) for their ongoing library of high quality, public domain titles.
